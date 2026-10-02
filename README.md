@@ -33,7 +33,7 @@ python scripts/package.py
 ```
 
 The resulting ZIP contains images and source records. Re-downloaded files must
-match the acquired checksums. Changed source files require a reviewed manifest
+match the acquired checksums or an explicitly reviewed byte variant. Changed source files require a reviewed manifest
 update; the script does not silently accept replacements.
 
 ## Permissions and attribution

@@ -36,7 +36,15 @@
       "width": 2667,
       "height": 4000,
       "bytes": 1983902,
-      "role": "unannotated reference; suitability review pending"
+      "role": "unannotated reference; suitability review pending",
+      "reviewed_byte_variants": [
+        {
+          "sha256": "f5c9560c46464061e94296dfa17ccf7075b2cf382bae72de5117062dcc116069",
+          "bytes": 2039400,
+          "reviewed_at": "2026-10-02",
+          "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+        }
+      ]
     }
   ],
   "credit_line": "Gift of J. Pierpont Morgan, 1911"

@@ -33,3 +33,11 @@ logos, audio transcripts, essays or modern translations were scraped.
 
 All 11 acquired files are original museum images. Their usefulness for sign-level
 recognition still needs image-by-image review.
+
+## Reviewed JPEG byte variant
+During publication, several source JPEGs returned changed container/metadata
+bytes. Each accepted variant was compared with its acquired original and decoded
+to exactly the same RGB pixels and dimensions. Explicit reviewed checksum/size
+alternatives are retained in the records;
+no changed pixels were accepted. Any other checksum still stops publication.
+Download receipts record the actual bytes packaged in a release.

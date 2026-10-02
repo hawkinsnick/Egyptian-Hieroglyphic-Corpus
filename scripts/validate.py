@@ -3,6 +3,11 @@ import argparse, hashlib, json
 from pathlib import Path
 from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
+def matches_acquired_bytes(data, image):
+    candidates = [{"sha256": image["sha256"], "bytes": image["bytes"]}] + image.get("reviewed_byte_variants", [])
+    digest = hashlib.sha256(data).hexdigest()
+    return any(len(data) == candidate["bytes"] and digest == candidate["sha256"] for candidate in candidates)
+
 def validate(images=False):
     manifest = json.loads((ROOT/'data/manifest.json').read_text())
     objects = manifest['objects']; seen = set(); count = 0
@@ -32,7 +37,7 @@ def validate(images=False):
             if min(image['width'],image['height'],image['bytes']) <= 0: raise ValueError('Invalid dimensions')
             if images:
                 data = (ROOT/path).read_bytes()
-                if len(data) != image['bytes'] or hashlib.sha256(data).hexdigest() != image['sha256']: raise ValueError('Image mismatch: '+str(path))
+                if not matches_acquired_bytes(data, image): raise ValueError('Image mismatch: '+str(path))
             count += 1
     print(f'Validated {len(objects)} objects, {count} image records'+(' and local image bytes' if images else ''))
     return manifest

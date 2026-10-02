@@ -83,7 +83,15 @@
           "width": 505,
           "height": 883,
           "bytes": 552001,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "0eb4248222a3216d4c65dff04f532a627a42d01a437ee6a33e71bb4167917e4d",
+              "bytes": 598984,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         },
         {
           "path": "images/met/545503/image-02.jpg",
@@ -92,7 +100,15 @@
           "width": 1429,
           "height": 2000,
           "bytes": 1022199,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "506bae9bd1fe0f1ae4e64d76f4d68155809c49b8e2feab04614f442c7b4dff65",
+              "bytes": 1070490,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         },
         {
           "path": "images/met/545503/image-03.jpg",
@@ -101,7 +117,15 @@
           "width": 2000,
           "height": 1429,
           "bytes": 1301874,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "e11da60f536dd9386753d0e2035de4363eba052d2c44abb418059ce7845ec959",
+              "bytes": 1366772,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         }
       ],
       "credit_line": "Purchase, Joseph Pulitzer Bequest, 1963"
@@ -144,7 +168,15 @@
           "width": 2667,
           "height": 4000,
           "bytes": 1983902,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "f5c9560c46464061e94296dfa17ccf7075b2cf382bae72de5117062dcc116069",
+              "bytes": 2039400,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         }
       ],
       "credit_line": "Gift of J. Pierpont Morgan, 1911"
