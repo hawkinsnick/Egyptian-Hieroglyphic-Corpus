@@ -1,0 +1,52 @@
+{
+  "object_id": "met:545503",
+  "title": "Stela of Reniseneb",
+  "accession_number": "63.154",
+  "period": "Middle Kingdom",
+  "date": "ca. 1765\u20131763 B.C.",
+  "source_url": "https://www.metmuseum.org/art/collection/search/545503",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/545503",
+  "retrieved_at": "2026-10-02T19:58:08.426727+00:00",
+  "image_rights": {
+    "museum_isPublicDomain": true,
+    "license": "CC0-1.0",
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:545503",
+  "images": [
+    {
+      "path": "images/met/545503/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154.JPG",
+      "sha256": "a37c666dba5de9ef20f72be88dfdd53805e8ebd29bdd7294dd0ce9a99a123f4e",
+      "width": 505,
+      "height": 883,
+      "bytes": 552001,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/545503/image-02.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154_01.jpg",
+      "sha256": "5c9f46ac6135dcd36809e3d6e08434e67ee5133282d9830d67c384ae0fd2ddbe",
+      "width": 1429,
+      "height": 2000,
+      "bytes": 1022199,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/545503/image-03.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154_02.jpg",
+      "sha256": "1dac66c97093d6a531990bfce76ffcc5e3fc40def2b28694564391cfc34c4d95",
+      "width": 2000,
+      "height": 1429,
+      "bytes": 1301874,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "credit_line": "Purchase, Joseph Pulitzer Bequest, 1963"
+}

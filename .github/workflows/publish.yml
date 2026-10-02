@@ -1,0 +1,33 @@
+name: Validate and publish open-image pilot
+on:
+  push:
+    branches: [main]
+    paths:
+      - data/**
+      - scripts/**
+      - docs/**
+      - LICENSE
+      - CREDITS.md
+      - .github/workflows/publish.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-open-image-pilot
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Validate provenance
+        run: python3 scripts/validate.py
+      - name: Download and verify original images
+        run: python3 scripts/download_images.py
+      - name: Build release archive
+        run: python3 scripts/package.py
+      - name: Publish versioned release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish_release.py

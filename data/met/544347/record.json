@@ -1,0 +1,43 @@
+{
+  "object_id": "met:544347",
+  "title": "Stela of Nakht",
+  "accession_number": "11.155.1",
+  "period": "Middle Kingdom",
+  "date": "ca. 1950\u20131900 B.C.",
+  "source_url": "https://www.metmuseum.org/art/collection/search/544347",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544347",
+  "retrieved_at": "2026-10-02T19:58:08.641724+00:00",
+  "image_rights": {
+    "museum_isPublicDomain": true,
+    "license": "CC0-1.0",
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:544347",
+  "images": [
+    {
+      "path": "images/met/544347/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24212.jpg",
+      "sha256": "494a2271dcb0e1816aa713ee66d6d86399337f397691d765185819efc3897825",
+      "width": 2997,
+      "height": 4000,
+      "bytes": 4015899,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/544347/image-02.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-11_155_1_EGDP029179.jpg",
+      "sha256": "744dfc9f6af667267819965b48c76e615092d6238cc638d056ae6b7ed785dd07",
+      "width": 2667,
+      "height": 4000,
+      "bytes": 1983902,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "credit_line": "Gift of J. Pierpont Morgan, 1911"
+}

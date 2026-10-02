@@ -1,0 +1,20 @@
+Licensing is component-specific; this repository does not have one blanket license.
+
+1. Met Open Access images and API data, including data/met/**, source image URLs,
+   downloaded images/met/** and museum-derived factual fields of data/manifest.json:
+   CC0-1.0, https://creativecommons.org/publicdomain/zero/1.0/legalcode .
+   They may be reused commercially or noncommercially. Project restrictions do not
+   apply to these materials. The Met's trademarks are not licensed by CC0.
+
+2. Original project scripts, documentation and organization, where copyright applies:
+   Copyright 2026 hawkinsnick. Licensed under Creative Commons Attribution-
+   NonCommercial 4.0 International (CC-BY-NC-4.0):
+   https://creativecommons.org/licenses/by-nc/4.0/legalcode .
+   Attribution: hawkinsnick, Egyptian-Hieroglyphic-Corpus, with repository URL.
+   This is a noncommercial source-available project, not an OSI open-source license.
+
+3. Future third-party readings/translations: governed by their own explicit rights
+   entries. None are included in version 0.1.0.
+
+This independent project is not affiliated with or endorsed by The Metropolitan
+Museum of Art. No Met logos or branding are included.

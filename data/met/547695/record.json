@@ -1,0 +1,34 @@
+{
+  "object_id": "met:547695",
+  "title": "Stela of Ameny and his Wife Inet-Hapy",
+  "accession_number": "12.182.2",
+  "period": "New Kingdom",
+  "date": "ca. 1504\u20131396 BCE",
+  "source_url": "https://www.metmuseum.org/art/collection/search/547695",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547695",
+  "retrieved_at": "2026-10-02T19:58:08.394389+00:00",
+  "image_rights": {
+    "museum_isPublicDomain": true,
+    "license": "CC0-1.0",
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:547695",
+  "images": [
+    {
+      "path": "images/met/547695/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-12_182_2_EGDP029177.jpg",
+      "sha256": "fc1bfb4e9371a84bf3da0e5fc02545a9cd82ad5c2a7a432feb97412b14a8e041",
+      "width": 2667,
+      "height": 4000,
+      "bytes": 3363373,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "credit_line": "Rogers Fund, 1912"
+}

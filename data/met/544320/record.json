@@ -1,0 +1,52 @@
+{
+  "object_id": "met:544320",
+  "title": "Stela of the Steward Mentuwoser",
+  "accession_number": "12.184",
+  "period": "Middle Kingdom",
+  "date": "ca. 1944 B.C.",
+  "source_url": "https://www.metmuseum.org/art/collection/search/544320",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544320",
+  "retrieved_at": "2026-10-02T19:58:08.672892+00:00",
+  "image_rights": {
+    "museum_isPublicDomain": true,
+    "license": "CC0-1.0",
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:544320",
+  "images": [
+    {
+      "path": "images/met/544320/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322064.jpg",
+      "sha256": "5ebf0ffc0d2a8611e8f1874d40eeb1d3b8fe5aedadc91b212acd251d114ec119",
+      "width": 2093,
+      "height": 4000,
+      "bytes": 3094133,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/544320/image-02.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322065.jpg",
+      "sha256": "3834cb568630862533a77335362415d14245227aba77d1a6a0f0bca901f43c96",
+      "width": 3332,
+      "height": 4000,
+      "bytes": 5872499,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/544320/image-03.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322066.jpg",
+      "sha256": "8a5c1056efb936ff9d8bfcc12b6ff33f88fc679dc968bd6d4affdd24636076c8",
+      "width": 2990,
+      "height": 4000,
+      "bytes": 4830127,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "credit_line": "Gift of Edward S. Harkness, 1912"
+}

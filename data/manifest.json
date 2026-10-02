@@ -1,0 +1,230 @@
+{
+  "version": "0.1.0",
+  "scope": "open image acquisition pilot; not a translated or annotated corpus",
+  "objects": [
+    {
+      "object_id": "met:544320",
+      "title": "Stela of the Steward Mentuwoser",
+      "accession_number": "12.184",
+      "period": "Middle Kingdom",
+      "date": "ca. 1944 B.C.",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544320",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544320",
+      "retrieved_at": "2026-10-02T19:58:08.672892+00:00",
+      "image_rights": {
+        "museum_isPublicDomain": true,
+        "license": "CC0-1.0",
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:544320",
+      "images": [
+        {
+          "path": "images/met/544320/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322064.jpg",
+          "sha256": "5ebf0ffc0d2a8611e8f1874d40eeb1d3b8fe5aedadc91b212acd251d114ec119",
+          "width": 2093,
+          "height": 4000,
+          "bytes": 3094133,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/544320/image-02.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322065.jpg",
+          "sha256": "3834cb568630862533a77335362415d14245227aba77d1a6a0f0bca901f43c96",
+          "width": 3332,
+          "height": 4000,
+          "bytes": 5872499,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/544320/image-03.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322066.jpg",
+          "sha256": "8a5c1056efb936ff9d8bfcc12b6ff33f88fc679dc968bd6d4affdd24636076c8",
+          "width": 2990,
+          "height": 4000,
+          "bytes": 4830127,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "credit_line": "Gift of Edward S. Harkness, 1912"
+    },
+    {
+      "object_id": "met:545503",
+      "title": "Stela of Reniseneb",
+      "accession_number": "63.154",
+      "period": "Middle Kingdom",
+      "date": "ca. 1765\u20131763 B.C.",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545503",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/545503",
+      "retrieved_at": "2026-10-02T19:58:08.426727+00:00",
+      "image_rights": {
+        "museum_isPublicDomain": true,
+        "license": "CC0-1.0",
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:545503",
+      "images": [
+        {
+          "path": "images/met/545503/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154.JPG",
+          "sha256": "a37c666dba5de9ef20f72be88dfdd53805e8ebd29bdd7294dd0ce9a99a123f4e",
+          "width": 505,
+          "height": 883,
+          "bytes": 552001,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/545503/image-02.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154_01.jpg",
+          "sha256": "5c9f46ac6135dcd36809e3d6e08434e67ee5133282d9830d67c384ae0fd2ddbe",
+          "width": 1429,
+          "height": 2000,
+          "bytes": 1022199,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/545503/image-03.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/63.154_02.jpg",
+          "sha256": "1dac66c97093d6a531990bfce76ffcc5e3fc40def2b28694564391cfc34c4d95",
+          "width": 2000,
+          "height": 1429,
+          "bytes": 1301874,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "credit_line": "Purchase, Joseph Pulitzer Bequest, 1963"
+    },
+    {
+      "object_id": "met:544347",
+      "title": "Stela of Nakht",
+      "accession_number": "11.155.1",
+      "period": "Middle Kingdom",
+      "date": "ca. 1950\u20131900 B.C.",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544347",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544347",
+      "retrieved_at": "2026-10-02T19:58:08.641724+00:00",
+      "image_rights": {
+        "museum_isPublicDomain": true,
+        "license": "CC0-1.0",
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:544347",
+      "images": [
+        {
+          "path": "images/met/544347/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24212.jpg",
+          "sha256": "494a2271dcb0e1816aa713ee66d6d86399337f397691d765185819efc3897825",
+          "width": 2997,
+          "height": 4000,
+          "bytes": 4015899,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/544347/image-02.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-11_155_1_EGDP029179.jpg",
+          "sha256": "744dfc9f6af667267819965b48c76e615092d6238cc638d056ae6b7ed785dd07",
+          "width": 2667,
+          "height": 4000,
+          "bytes": 1983902,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "credit_line": "Gift of J. Pierpont Morgan, 1911"
+    },
+    {
+      "object_id": "met:547695",
+      "title": "Stela of Ameny and his Wife Inet-Hapy",
+      "accession_number": "12.182.2",
+      "period": "New Kingdom",
+      "date": "ca. 1504\u20131396 BCE",
+      "source_url": "https://www.metmuseum.org/art/collection/search/547695",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547695",
+      "retrieved_at": "2026-10-02T19:58:08.394389+00:00",
+      "image_rights": {
+        "museum_isPublicDomain": true,
+        "license": "CC0-1.0",
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:547695",
+      "images": [
+        {
+          "path": "images/met/547695/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-12_182_2_EGDP029177.jpg",
+          "sha256": "fc1bfb4e9371a84bf3da0e5fc02545a9cd82ad5c2a7a432feb97412b14a8e041",
+          "width": 2667,
+          "height": 4000,
+          "bytes": 3363373,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "credit_line": "Rogers Fund, 1912"
+    },
+    {
+      "object_id": "met:554785",
+      "title": "Stela",
+      "accession_number": "90.6.130",
+      "period": "New Kingdom",
+      "date": "ca. 1550\u20131525 BCE",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554785",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/554785",
+      "retrieved_at": "2026-10-02T19:58:08.398406+00:00",
+      "image_rights": {
+        "museum_isPublicDomain": true,
+        "license": "CC0-1.0",
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:554785",
+      "images": [
+        {
+          "path": "images/met/554785/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_130_EGDP036361.jpg",
+          "sha256": "15f434c8c63db6fd2ea869db3fbdcaa28258c2010eb70756cd3201d5ce5bc1fe",
+          "width": 4000,
+          "height": 4000,
+          "bytes": 4055939,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/554785/image-02.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_130_EGDP036362.jpg",
+          "sha256": "d467240bf380a0bf0d4969ef52c22f20c10e7b187713f1404d9008ba0db4e62e",
+          "width": 4000,
+          "height": 4000,
+          "bytes": 4276251,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "credit_line": "Gift of James Douglas, 1890"
+    }
+  ]
+}

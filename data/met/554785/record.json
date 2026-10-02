@@ -1,0 +1,43 @@
+{
+  "object_id": "met:554785",
+  "title": "Stela",
+  "accession_number": "90.6.130",
+  "period": "New Kingdom",
+  "date": "ca. 1550\u20131525 BCE",
+  "source_url": "https://www.metmuseum.org/art/collection/search/554785",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/554785",
+  "retrieved_at": "2026-10-02T19:58:08.398406+00:00",
+  "image_rights": {
+    "museum_isPublicDomain": true,
+    "license": "CC0-1.0",
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:554785",
+  "images": [
+    {
+      "path": "images/met/554785/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_130_EGDP036361.jpg",
+      "sha256": "15f434c8c63db6fd2ea869db3fbdcaa28258c2010eb70756cd3201d5ce5bc1fe",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 4055939,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/554785/image-02.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_130_EGDP036362.jpg",
+      "sha256": "d467240bf380a0bf0d4969ef52c22f20c10e7b187713f1404d9008ba0db4e62e",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 4276251,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "credit_line": "Gift of James Douglas, 1890"
+}
