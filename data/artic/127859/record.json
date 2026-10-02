@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:127859",
+  "title": "Stela of Amenemhat and Hemet",
+  "accession_number": "1920.262",
+  "period": null,
+  "date": "Middle Kingdom, early Dynasty 12, about 1956\u20131877 BCE",
+  "source_url": "https://www.artic.edu/artworks/127859",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/127859?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:07.413798+00:00",
+  "credit_line": "Museum Purchase Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:127859",
+  "images": [
+    {
+      "path": "images/artic/127859/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/9365a024-75ce-75e9-756f-1c2c96eadec9/full/843,/0/default.jpg",
+      "sha256": "907429cada0044c15f7fc788479abc97cf2d002e4c2d2587980eafb972ad6187",
+      "width": 843,
+      "height": 674,
+      "bytes": 189469,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:121737",
+  "title": "Stela of Tjenti and Nefret",
+  "accession_number": "1920.265",
+  "period": null,
+  "date": "Old Kingdom, Dynasty 4, about 2540 BCE",
+  "source_url": "https://www.artic.edu/artworks/121737",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/121737?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:58.139371+00:00",
+  "credit_line": "Museum Purchase Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:121737",
+  "images": [
+    {
+      "path": "images/artic/121737/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/ded5de06-e39e-7974-27ba-0d2db380f149/full/843,/0/default.jpg",
+      "sha256": "7466d907b262b9eb8d8a3d1b90e30e8bede92a450f19188408696dc2f0e8bfec",
+      "width": 843,
+      "height": 536,
+      "bytes": 197964,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

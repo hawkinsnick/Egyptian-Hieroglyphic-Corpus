@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:487",
+  "title": "Ushabti (Funerary Figurine) of Horudja",
+  "accession_number": "1890.30",
+  "period": null,
+  "date": "Late Period, Dynasty 30 (380\u2013343 BCE)",
+  "source_url": "https://www.artic.edu/artworks/487",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/487?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:48.756855+00:00",
+  "credit_line": "Gift of Miss Amelia B. Edwards",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:487",
+  "images": [
+    {
+      "path": "images/artic/487/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/66a4e017-96f3-52ac-90cd-33f5657a613d/full/843,/0/default.jpg",
+      "sha256": "f8cb347cc30cf0627f57b3a53805cb779d51ecc6e9bf6470484d3641fd3dd828",
+      "width": 843,
+      "height": 1124,
+      "bytes": 105048,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

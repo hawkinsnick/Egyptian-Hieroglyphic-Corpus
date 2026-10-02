@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scope": "open image acquisition pilot; not a translated or annotated corpus",
   "objects": [
     {
@@ -257,6 +257,785 @@
         }
       ],
       "credit_line": "Gift of James Douglas, 1890"
+    },
+    {
+      "object_id": "met:545752",
+      "title": "Stela",
+      "accession_number": "20.2.6",
+      "period": "New Kingdom",
+      "date": "ca. 1427\u20131386 BCE",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545752",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/545752",
+      "retrieved_at": "2026-10-02T21:59:26.713658+00:00",
+      "credit_line": "Rogers Fund, 1920",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_isPublicDomain": true,
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:545752",
+      "images": [
+        {
+          "path": "images/met/545752/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-20_2_6_EGDP029829.jpg",
+          "sha256": "ef59a37f1a7de76f9082ab732512abe9773603fd6c5b17a09beddd88f26bc7fb",
+          "width": 3200,
+          "height": 4000,
+          "bytes": 3149210,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ]
+    },
+    {
+      "object_id": "met:554786",
+      "title": "Stela of Nebamun",
+      "accession_number": "90.6.131",
+      "period": "New Kingdom",
+      "date": "ca. 1479\u20131396 BCE",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554786",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/554786",
+      "retrieved_at": "2026-10-02T21:59:40.127145+00:00",
+      "credit_line": "Gift of James Douglas, 1890",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_isPublicDomain": true,
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:554786",
+      "images": [
+        {
+          "path": "images/met/554786/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_131_EGDP029821.jpg",
+          "sha256": "7ff0a443725872ac71b3c6aad8d0b056255910587cb027b7586897fdcd524052",
+          "width": 2667,
+          "height": 4000,
+          "bytes": 3417990,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ]
+    },
+    {
+      "object_id": "met:556818",
+      "title": "Fragment of stela",
+      "accession_number": "14.3.251",
+      "period": "Middle Kingdom",
+      "date": "ca. 1981\u20131640 B.C.",
+      "source_url": "https://www.metmuseum.org/art/collection/search/556818",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/556818",
+      "retrieved_at": "2026-10-02T21:59:50.903558+00:00",
+      "credit_line": "Rogers Fund and Edward S. Harkness Gift, 1914",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_isPublicDomain": true,
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:556818",
+      "images": [
+        {
+          "path": "images/met/556818/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/14.3.251-AC-2.jpg",
+          "sha256": "f2ee228ff1c164f075a7783cc5c4e7b5c422d55232bc4148fa8b58b83b94f1a5",
+          "width": 422,
+          "height": 486,
+          "bytes": 119849,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ]
+    },
+    {
+      "object_id": "met:546261",
+      "title": "Small Magical Stela with Shed dedicated by Nesamenemopet, son of Djedkhonsuiufankh",
+      "accession_number": "44.4.54",
+      "period": "Third Intermediate Period",
+      "date": "ca. 721\u2013664 BCE",
+      "source_url": "https://www.metmuseum.org/art/collection/search/546261",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/546261",
+      "retrieved_at": "2026-10-02T22:00:00.546447+00:00",
+      "credit_line": "Rogers Fund, 1944",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_isPublicDomain": true,
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:546261",
+      "images": [
+        {
+          "path": "images/met/546261/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/44.4.54_EGDP015273.jpg",
+          "sha256": "0c41ada33ba3379f79cfca6975c92e434efb4c2d17d54945364af8d522609eca",
+          "width": 1600,
+          "height": 2000,
+          "bytes": 1819336,
+          "role": "unannotated reference; suitability review pending"
+        },
+        {
+          "path": "images/met/546261/image-02.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/44.4.54_EGDP015271.jpg",
+          "sha256": "a411fc6a032f32283bc0f19195995e8daa643ffe381198a65f985d23e6074198",
+          "width": 1600,
+          "height": 2000,
+          "bytes": 1829267,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ]
+    },
+    {
+      "object_id": "met:545875",
+      "title": "Stela of Amennakht",
+      "accession_number": "65.269",
+      "period": "Middle Kingdom",
+      "date": "ca. 1981\u20131802 B.C.",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545875",
+      "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/545875",
+      "retrieved_at": "2026-10-02T22:00:14.802925+00:00",
+      "credit_line": "Gift of  William Irvine, 1965",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_isPublicDomain": true,
+        "policy_url": "https://www.metmuseum.org/hubs/open-access",
+        "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "met:545875",
+      "images": [
+        {
+          "path": "images/met/545875/image-01.jpg",
+          "source_url": "https://images.metmuseum.org/CRDImages/eg/original/65.269_EGDP022604.jpg",
+          "sha256": "2d591972f8b6afd666061692e23e37d751fd4d6dbf09f196734671bf834801a6",
+          "width": 2667,
+          "height": 4000,
+          "bytes": 2935737,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ]
+    },
+    {
+      "object_id": "artic:12985",
+      "title": "Fragment of a Stela of Neferhotep",
+      "accession_number": "1924.579",
+      "period": null,
+      "date": "New Kingdom, mid-Dynasty 19, about 1240-1195 BCE",
+      "source_url": "https://www.artic.edu/artworks/12985",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/12985?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:24.334578+00:00",
+      "credit_line": "Lois H. Culver Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:12985",
+      "images": [
+        {
+          "path": "images/artic/12985/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/3265677e-4e82-3d16-22a7-6a7621df3193/full/843,/0/default.jpg",
+          "sha256": "1ea47a3ac37b8ea33b80e7a4bd2209845aa36187a338b8a933a8f4601eed479e",
+          "width": 843,
+          "height": 1262,
+          "bytes": 234575,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:127885",
+      "title": "Canopic Jar of Amenhotep",
+      "accession_number": "1892.36a-b",
+      "period": null,
+      "date": "New Kingdom, Dynasty 18, reign of Amenhotep II (about 1427\u20131400 BCE)",
+      "source_url": "https://www.artic.edu/artworks/127885",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/127885?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:31.323689+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:127885",
+      "images": [
+        {
+          "path": "images/artic/127885/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/27877107-6561-6e65-d730-daf9fcf9fd13/full/843,/0/default.jpg",
+          "sha256": "f7d4a477e7017d7857325f4f39dfe29d56fa3965659d40c7f5401903e8a682a9",
+          "width": 843,
+          "height": 1055,
+          "bytes": 128387,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:120266",
+      "title": "Canopic Jar of Amenhotep",
+      "accession_number": "1892.39a-b",
+      "period": null,
+      "date": "New Kingdom, Dynasty 18, reign of Amenhotep II (about 1427\u20131400 BCE)",
+      "source_url": "https://www.artic.edu/artworks/120266",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/120266?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:36.579162+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:120266",
+      "images": [
+        {
+          "path": "images/artic/120266/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/e64b6e08-7d8f-e5df-65d1-020d027b4eb5/full/843,/0/default.jpg",
+          "sha256": "6318728d104143c48a821a5f54c27a61c065bbc429b6e17f529b25050a5a5c45",
+          "width": 843,
+          "height": 1055,
+          "bytes": 118318,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:120265",
+      "title": "Canopic Jar of Amenhotep",
+      "accession_number": "1892.38a-b",
+      "period": null,
+      "date": "New Kingdom, Dynasty 18, reign of Amenhotep II (about 1427\u20131400 BCE)",
+      "source_url": "https://www.artic.edu/artworks/120265",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/120265?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:42.302277+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:120265",
+      "images": [
+        {
+          "path": "images/artic/120265/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/e9fca0e0-88dc-4f68-2f0c-2c123bed77fe/full/843,/0/default.jpg",
+          "sha256": "fa89b61e77cc8283c431215db8572d200d67a4e88f8c6114d6a6ec1255d0be46",
+          "width": 843,
+          "height": 1055,
+          "bytes": 130976,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:120264",
+      "title": "Canopic Jar of Amenhotep",
+      "accession_number": "1892.37a-b",
+      "period": null,
+      "date": "New Kingdom, Dynasty 18, reign of Amenhotep II (about 1427\u20131400 BCE)",
+      "source_url": "https://www.artic.edu/artworks/120264",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/120264?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:48.305214+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:120264",
+      "images": [
+        {
+          "path": "images/artic/120264/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/bc5407f4-ed7d-5721-da24-8bde5d0c646c/full/843,/0/default.jpg",
+          "sha256": "bd74629e274fc2f60fc2d71c7b882edddab2d1141cb64ecfd9509a796de660ca",
+          "width": 843,
+          "height": 1055,
+          "bytes": 124546,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:120268",
+      "title": "Shabti (Funerary Figurine) of Nebseni",
+      "accession_number": "1892.28",
+      "period": null,
+      "date": "New Kingdom, early Dynasty 18, about 1570 BCE",
+      "source_url": "https://www.artic.edu/artworks/120268",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/120268?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:00:55.458433+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:120268",
+      "images": [
+        {
+          "path": "images/artic/120268/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/5407bfcf-96a7-37f1-7666-a68c1ce90adc/full/843,/0/default.jpg",
+          "sha256": "6c7df7e7b30874a80b04df74295a10fb8874c68332fde609094c8085f39f2936",
+          "width": 843,
+          "height": 1180,
+          "bytes": 135449,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:127894",
+      "title": "Stela of Amenemhat and Yatu",
+      "accession_number": "1892.35",
+      "period": null,
+      "date": "Middle Kingdom, late Dynasty 12\u2013early Dynasty 13, about 1870\u20131770 BCE",
+      "source_url": "https://www.artic.edu/artworks/127894",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/127894?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:01.760799+00:00",
+      "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:127894",
+      "images": [
+        {
+          "path": "images/artic/127894/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/2867434d-2419-26b0-fd39-16aae654689d/full/843,/0/default.jpg",
+          "sha256": "4c6c360cd68117b437f3ea5c5c0413e53c1a815165ccb5baa55a495844ce5845",
+          "width": 843,
+          "height": 1053,
+          "bytes": 272824,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:127859",
+      "title": "Stela of Amenemhat and Hemet",
+      "accession_number": "1920.262",
+      "period": null,
+      "date": "Middle Kingdom, early Dynasty 12, about 1956\u20131877 BCE",
+      "source_url": "https://www.artic.edu/artworks/127859",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/127859?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:07.413798+00:00",
+      "credit_line": "Museum Purchase Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:127859",
+      "images": [
+        {
+          "path": "images/artic/127859/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/9365a024-75ce-75e9-756f-1c2c96eadec9/full/843,/0/default.jpg",
+          "sha256": "907429cada0044c15f7fc788479abc97cf2d002e4c2d2587980eafb972ad6187",
+          "width": 843,
+          "height": 674,
+          "bytes": 189469,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:78161",
+      "title": "Trial Piece with Hieroglyphs",
+      "accession_number": "1920.253",
+      "period": null,
+      "date": "Early Ptolemaic Period, about 300 BCE",
+      "source_url": "https://www.artic.edu/artworks/78161",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/78161?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:14.135632+00:00",
+      "credit_line": "Museum Purchase Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:78161",
+      "images": [
+        {
+          "path": "images/artic/78161/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/13438eb9-d7b2-03fb-ea48-c17d04b938a7/full/843,/0/default.jpg",
+          "sha256": "870d878eb18953a9b3f0019055bc96f4b3119a9a3be63fc0312a342e1015fd64",
+          "width": 843,
+          "height": 1313,
+          "bytes": 452941,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:64339",
+      "title": "Coffin and Mummy of Paankhaenamun",
+      "accession_number": "1910.238",
+      "period": null,
+      "date": "Third Intermediate Period, Dynasty 22, reign of Osorkon I (about 924\u2013889 BCE)",
+      "source_url": "https://www.artic.edu/artworks/64339",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/64339?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:19.849862+00:00",
+      "credit_line": "W. Moses Willner Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:64339",
+      "images": [
+        {
+          "path": "images/artic/64339/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/93270aaf-16a5-1604-c6c8-0f3c003eb7a1/full/843,/0/default.jpg",
+          "sha256": "2cd4dc7d3ac197e965aaf2d2960ff362186037fb1ed3af53f84267f5e5de3ba0",
+          "width": 843,
+          "height": 2529,
+          "bytes": 623585,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:13454",
+      "title": "Statue of Shebenhor",
+      "accession_number": "1924.754",
+      "period": null,
+      "date": "Late Period, Dynasty 26 (664-525 BCE)",
+      "source_url": "https://www.artic.edu/artworks/13454",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/13454?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:26.515862+00:00",
+      "credit_line": "Gift of Mrs. George L. Otis",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:13454",
+      "images": [
+        {
+          "path": "images/artic/13454/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/60b5a6df-e329-4220-f1d9-d78965a28a57/full/843,/0/default.jpg",
+          "sha256": "ebb0436fcf9460457001204323247451f6e557916fc93fc3133a665dcb808e39",
+          "width": 843,
+          "height": 1180,
+          "bytes": 133266,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:120365",
+      "title": "Relief Fragment Depicting Merettetiiyet with Offerings",
+      "accession_number": "1910.223",
+      "period": null,
+      "date": "First Intermediate Period, Dynasty 10, about 2050 BCE",
+      "source_url": "https://www.artic.edu/artworks/120365",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/120365?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:33.770095+00:00",
+      "credit_line": "W. Moses Willner Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:120365",
+      "images": [
+        {
+          "path": "images/artic/120365/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/f8549781-eb13-52d3-07f0-92671e149c93/full/843,/0/default.jpg",
+          "sha256": "cd35b31b5a2ca1edf335ff76fcbf76b955b5ce82d0c544ff529ed93220372b3b",
+          "width": 843,
+          "height": 1003,
+          "bytes": 252005,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:805",
+      "title": "Funerary Papyrus of Tayuhenutmut",
+      "accession_number": "1894.180",
+      "period": null,
+      "date": "Third Intermediate Period, probably Dynasty 21 (about 1069-945 BCE)",
+      "source_url": "https://www.artic.edu/artworks/805",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/805?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:41.127894+00:00",
+      "credit_line": "Gift of Henry H. Getty, Charles L. Hutchinson, Robert H. Fleming, and Norman W. Harris",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:805",
+      "images": [
+        {
+          "path": "images/artic/805/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/6cb56687-a433-ae6b-ab07-af71dd755ec9/full/843,/0/default.jpg",
+          "sha256": "af48e4e2c5b01570a46ccb76154981caf588669a629315f18ea6ae6f63fbea85",
+          "width": 843,
+          "height": 215,
+          "bytes": 74168,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": false,
+        "gallery_title": null,
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:487",
+      "title": "Ushabti (Funerary Figurine) of Horudja",
+      "accession_number": "1890.30",
+      "period": null,
+      "date": "Late Period, Dynasty 30 (380\u2013343 BCE)",
+      "source_url": "https://www.artic.edu/artworks/487",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/487?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:48.756855+00:00",
+      "credit_line": "Gift of Miss Amelia B. Edwards",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:487",
+      "images": [
+        {
+          "path": "images/artic/487/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/66a4e017-96f3-52ac-90cd-33f5657a613d/full/843,/0/default.jpg",
+          "sha256": "f8cb347cc30cf0627f57b3a53805cb779d51ecc6e9bf6470484d3641fd3dd828",
+          "width": 843,
+          "height": 1124,
+          "bytes": 105048,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
+    },
+    {
+      "object_id": "artic:121737",
+      "title": "Stela of Tjenti and Nefret",
+      "accession_number": "1920.265",
+      "period": null,
+      "date": "Old Kingdom, Dynasty 4, about 2540 BCE",
+      "source_url": "https://www.artic.edu/artworks/121737",
+      "metadata_api": "https://api.artic.edu/api/v1/artworks/121737?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+      "retrieved_at": "2026-10-02T22:01:58.139371+00:00",
+      "credit_line": "Museum Purchase Fund",
+      "image_rights": {
+        "license": "CC0-1.0",
+        "museum_is_public_domain": true,
+        "policy_url": "https://www.artic.edu/image-licensing",
+        "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+      },
+      "transcription": null,
+      "transliteration": null,
+      "translation": null,
+      "reading_status": "not yet sourced or verified",
+      "sign_annotations": [],
+      "split_group": "artic:121737",
+      "images": [
+        {
+          "path": "images/artic/121737/image-01.jpg",
+          "source_url": "https://www.artic.edu/iiif/2/ded5de06-e39e-7974-27ba-0d2db380f149/full/843,/0/default.jpg",
+          "sha256": "7466d907b262b9eb8d8a3d1b90e30e8bede92a450f19188408696dc2f0e8bfec",
+          "width": 843,
+          "height": 536,
+          "bytes": 197964,
+          "role": "unannotated reference; suitability review pending"
+        }
+      ],
+      "display_status": {
+        "is_on_view": true,
+        "gallery_title": "Gallery 50",
+        "checked_at": "2026-10-02",
+        "note": "Recheck before travel; display can change."
+      }
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "object_id": "met:546261",
+  "title": "Small Magical Stela with Shed dedicated by Nesamenemopet, son of Djedkhonsuiufankh",
+  "accession_number": "44.4.54",
+  "period": "Third Intermediate Period",
+  "date": "ca. 721\u2013664 BCE",
+  "source_url": "https://www.metmuseum.org/art/collection/search/546261",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/546261",
+  "retrieved_at": "2026-10-02T22:00:00.546447+00:00",
+  "credit_line": "Rogers Fund, 1944",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_isPublicDomain": true,
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:546261",
+  "images": [
+    {
+      "path": "images/met/546261/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/44.4.54_EGDP015273.jpg",
+      "sha256": "0c41ada33ba3379f79cfca6975c92e434efb4c2d17d54945364af8d522609eca",
+      "width": 1600,
+      "height": 2000,
+      "bytes": 1819336,
+      "role": "unannotated reference; suitability review pending"
+    },
+    {
+      "path": "images/met/546261/image-02.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/44.4.54_EGDP015271.jpg",
+      "sha256": "a411fc6a032f32283bc0f19195995e8daa643ffe381198a65f985d23e6074198",
+      "width": 1600,
+      "height": 2000,
+      "bytes": 1829267,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ]
+}

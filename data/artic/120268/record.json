@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:120268",
+  "title": "Shabti (Funerary Figurine) of Nebseni",
+  "accession_number": "1892.28",
+  "period": null,
+  "date": "New Kingdom, early Dynasty 18, about 1570 BCE",
+  "source_url": "https://www.artic.edu/artworks/120268",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/120268?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:00:55.458433+00:00",
+  "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:120268",
+  "images": [
+    {
+      "path": "images/artic/120268/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/5407bfcf-96a7-37f1-7666-a68c1ce90adc/full/843,/0/default.jpg",
+      "sha256": "6c7df7e7b30874a80b04df74295a10fb8874c68332fde609094c8085f39f2936",
+      "width": 843,
+      "height": 1180,
+      "bytes": 135449,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

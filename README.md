@@ -1,27 +1,33 @@
 # Egyptian Hieroglyphic Corpus
 
-Version **0.1.0** — an open-image acquisition pilot supporting research and a future
-camera-assisted reading app. This independent project is not affiliated with or
-endorsed by The Metropolitan Museum of Art.
+Version **0.2.0** — an open-image acquisition collection supporting research and a
+future camera-assisted reading app. Independent project; no museum affiliation
+or endorsement.
 
-## What is available
-- **5 Egyptian stelae; 11 original high-resolution museum photographs.**
-- Museum API records and normalized source records.
-- Accession numbers, credit lines, original image URLs, retrieval timestamps,
-  image dimensions and SHA-256 hashes.
-- Download/validation tools and a browsable source gallery.
+## Available now
+- **25 objects and 32 museum-supplied image files**, up from 5 objects/11 images.
+- 10 Met objects with 17 images; 15 Art Institute objects with 15 images.
+- Source records, accession numbers, credit lines, source URLs, retrieval times,
+  dimensions and SHA-256 hashes; reviewed identical-pixel JPEG variants where needed.
+- Museum-specific permission checks, download receipts, and a source gallery.
+- [Art Institute photo checklist](docs/PHOTO-FIELD-GUIDE.md), a
+  [five-object target list](docs/ART-INSTITUTE-TARGETS.md), and a capture manifest template.
 
 **No verified sign annotations, transcriptions, transliterations or translations
-are included yet.** This is not a trained recognizer or translation app.
+are included yet.** Object matching and sign-level recognition are future work.
+Candidate objects have visible writing or sign examples, but each passage still
+needs detailed suitability review. The collection is not exhaustive.
 
-## Browse and download
-Open [the source gallery](gallery.html) locally after downloading the repository;
-it displays images from the recorded Met URLs and links to each museum record.
-The [manifest](data/manifest.json) lists every acquired image.
+## Download and browse
+Download the image ZIP from [v0.2.0 Releases](https://github.com/hawkinsnick/Egyptian-Hieroglyphic-Corpus/releases/tag/v0.2.0),
+unzip, then open `gallery.html`. The release ZIP contains local images. A source-only
+repository download uses museum URLs as a fallback and requires internet access.
+If the release is absent, check the publication job; it only publishes after checks pass.
 
-A GitHub Actions publication job downloads and verifies the 11 originals, then
-publishes a versioned ZIP on the [Releases page](../../releases). Check the job's
-status if a release is not yet present; a failed job does not mean a release exists.
+Art Institute images are its recommended 843px cached-width references. Met files
+are the acquired original-resolution images. Do not assume all files are suitable
+for reading very small signs. Larger public-domain images can be considered later
+where the detail is necessary and the institution's guidance allows it.
 
 To reproduce locally with Python 3.10+ (standard library only):
 
@@ -32,22 +38,22 @@ python scripts/validate.py --images
 python scripts/package.py
 ```
 
-The resulting ZIP contains images and source records. Re-downloaded files must
-match the acquired checksums or an explicitly reviewed byte variant. Changed source files require a reviewed manifest
-update; the script does not silently accept replacements.
+The downloader rechecks current museum public-domain status and source identity.
+It rejects unreviewed byte changes. Art Institute requests run sequentially with
+one-second delays; no parallel scraping. The release records actual image hashes.
 
-## Permissions and attribution
-**Met images and API data remain CC0.** Original project work is CC BY-NC 4.0;
-that restriction does not apply to the museum assets. See [LICENSE](LICENSE),
-[permissions evidence](docs/PERMISSIONS.md), and [object credits](CREDITS.md).
-No modern museum essays or scholarly translations are reproduced.
+## Permissions
+Source images and basic metadata remain **CC0**, including commercial reuse.
+Original project work is **CC BY-NC 4.0**; this does not restrict source CC0 assets.
+See [LICENSE](LICENSE), [permissions register](docs/PERMISSIONS.md), and
+[CREDITS.md](CREDITS.md). Art Institute `description` and `inscriptions` prose fields
+were excluded from the selected-field import; no modern translations were copied.
 
-## Research roadmap
-1. Review image suitability and select legible passages.
-2. Link exact scholarly readings with independent rights checks.
-3. Annotate signs, layout, reading order, damage and uncertainty.
-4. Benchmark known-object photo matching on independent photographs.
-5. Develop sign recognition and translation as separately evaluated capabilities.
+Visitor photography is a separate permission question. Do not treat online CC0
+image status as authorization to publish visitor photos or museum labels. The photo
+guide explains how to confirm the intended public dataset use before a visit.
 
-The corpus remains independent of the camera application. See
-[annotation and evaluation notes](docs/ANNOTATION.md).
+## Next research work
+Review inscription regions, locate exact editions and their reuse terms, annotate
+signs and reading order, and evaluate retrieval separately from unseen-text OCR.
+See [evaluation notes](docs/ANNOTATION.md). The camera app remains a separate project.

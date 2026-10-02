@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-02",
+  "artic_batch_url": "https://api.artic.edu/api/v1/artworks?ids=127859,127894,121737,12985,78161,120265,120264,127885,120266,64339,805,120268,487,13454,120365&fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "artic_rate": "one image at a time; at least one-second delay",
+  "errors": []
+}

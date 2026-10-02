@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:805",
+  "title": "Funerary Papyrus of Tayuhenutmut",
+  "accession_number": "1894.180",
+  "period": null,
+  "date": "Third Intermediate Period, probably Dynasty 21 (about 1069-945 BCE)",
+  "source_url": "https://www.artic.edu/artworks/805",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/805?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:41.127894+00:00",
+  "credit_line": "Gift of Henry H. Getty, Charles L. Hutchinson, Robert H. Fleming, and Norman W. Harris",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:805",
+  "images": [
+    {
+      "path": "images/artic/805/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/6cb56687-a433-ae6b-ab07-af71dd755ec9/full/843,/0/default.jpg",
+      "sha256": "af48e4e2c5b01570a46ccb76154981caf588669a629315f18ea6ae6f63fbea85",
+      "width": 843,
+      "height": 215,
+      "bytes": 74168,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": false,
+    "gallery_title": null,
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

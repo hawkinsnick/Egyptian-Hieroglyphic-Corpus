@@ -1,0 +1,86 @@
+{
+  "objectID": 554786,
+  "isHighlight": false,
+  "accessionNumber": "90.6.131",
+  "accessionYear": "1890",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/eg/original/LC-90_6_131_EGDP029821.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-90_6_131_EGDP029821.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Egyptian Art",
+  "objectName": "Stela, Nebamun, Huy",
+  "title": "Stela of Nebamun",
+  "culture": "",
+  "period": "New Kingdom",
+  "dynasty": "Dynasty 18",
+  "reign": "reign of Thutmose III\u2013Amenhotep II",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1479\u20131396 BCE",
+  "objectBeginDate": -1479,
+  "objectEndDate": -1400,
+  "medium": "Limestone, paint",
+  "dimensions": "Preserved: H. 30 \u00d7 W. 29 \u00d7 D. 7.8 cm, 14.9 kg (11 13/16 \u00d7 11 7/16 \u00d7 3 1/16 in., 32.8 lb.); H. (with reconstruction): 43.5 cm (17 1/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "with reconstruction",
+      "elementMeasurements": {
+        "Height": 43.5
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Preserved",
+      "elementMeasurements": {
+        "Depth": 7.8,
+        "Height": 30,
+        "Weight": 14.877982,
+        "Width": 29
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "block",
+      "elementMeasurements": {
+        "Depth": 10,
+        "Height": 4.7,
+        "Width": 30.2
+      }
+    }
+  ],
+  "creditLine": "Gift of James Douglas, 1890",
+  "geographyType": "Probably from",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "Upper Egypt, Thebes",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-08-01T04:49:33.94Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/554786",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116427636",
+  "isTimelineWork": false,
+  "GalleryNumber": "117"
+}

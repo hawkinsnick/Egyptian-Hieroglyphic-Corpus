@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:127894",
+  "title": "Stela of Amenemhat and Yatu",
+  "accession_number": "1892.35",
+  "period": null,
+  "date": "Middle Kingdom, late Dynasty 12\u2013early Dynasty 13, about 1870\u20131770 BCE",
+  "source_url": "https://www.artic.edu/artworks/127894",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/127894?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:01.760799+00:00",
+  "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:127894",
+  "images": [
+    {
+      "path": "images/artic/127894/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/2867434d-2419-26b0-fd39-16aae654689d/full/843,/0/default.jpg",
+      "sha256": "4c6c360cd68117b437f3ea5c5c0413e53c1a815165ccb5baa55a495844ce5845",
+      "width": 843,
+      "height": 1053,
+      "bytes": 272824,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": {
+    "id": 127894,
+    "title": "Stela of Amenemhat and Yatu",
+    "main_reference_number": "1892.35",
+    "date_display": "Middle Kingdom, late Dynasty 12\u2013early Dynasty 13, about 1870\u20131770 BCE",
+    "dimensions": "62.3 \u00d7 45.8 \u00d7 9.6 cm (24 1/2 \u00d7 18 \u00d7 3 3/4 in.)",
+    "medium_display": "Limestone and pigment",
+    "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+    "is_public_domain": true,
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "artist_title": "Ancient Egyptian",
+    "image_id": "2867434d-2419-26b0-fd39-16aae654689d"
+  },
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.16"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  },
+  "requested_fields": [
+    "id",
+    "title",
+    "main_reference_number",
+    "is_public_domain",
+    "image_id",
+    "is_on_view",
+    "gallery_title",
+    "credit_line",
+    "date_display",
+    "artist_title",
+    "dimensions",
+    "medium_display"
+  ],
+  "note": "Selected basic API fields only; description and inscription prose not requested."
+}

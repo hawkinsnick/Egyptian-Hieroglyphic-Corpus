@@ -1,0 +1,34 @@
+{
+  "object_id": "met:545752",
+  "title": "Stela",
+  "accession_number": "20.2.6",
+  "period": "New Kingdom",
+  "date": "ca. 1427\u20131386 BCE",
+  "source_url": "https://www.metmuseum.org/art/collection/search/545752",
+  "metadata_api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/545752",
+  "retrieved_at": "2026-10-02T21:59:26.713658+00:00",
+  "credit_line": "Rogers Fund, 1920",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_isPublicDomain": true,
+    "policy_url": "https://www.metmuseum.org/hubs/open-access",
+    "policy_detail_url": "https://www.metmuseum.org/policies/image-resources"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "met:545752",
+  "images": [
+    {
+      "path": "images/met/545752/image-01.jpg",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-20_2_6_EGDP029829.jpg",
+      "sha256": "ef59a37f1a7de76f9082ab732512abe9773603fd6c5b17a09beddd88f26bc7fb",
+      "width": 3200,
+      "height": 4000,
+      "bytes": 3149210,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:12985",
+  "title": "Fragment of a Stela of Neferhotep",
+  "accession_number": "1924.579",
+  "period": null,
+  "date": "New Kingdom, mid-Dynasty 19, about 1240-1195 BCE",
+  "source_url": "https://www.artic.edu/artworks/12985",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/12985?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:00:24.334578+00:00",
+  "credit_line": "Lois H. Culver Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:12985",
+  "images": [
+    {
+      "path": "images/artic/12985/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/3265677e-4e82-3d16-22a7-6a7621df3193/full/843,/0/default.jpg",
+      "sha256": "1ea47a3ac37b8ea33b80e7a4bd2209845aa36187a338b8a933a8f4601eed479e",
+      "width": 843,
+      "height": 1262,
+      "bytes": 234575,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

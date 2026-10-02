@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:78161",
+  "title": "Trial Piece with Hieroglyphs",
+  "accession_number": "1920.253",
+  "period": null,
+  "date": "Early Ptolemaic Period, about 300 BCE",
+  "source_url": "https://www.artic.edu/artworks/78161",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/78161?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:14.135632+00:00",
+  "credit_line": "Museum Purchase Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:78161",
+  "images": [
+    {
+      "path": "images/artic/78161/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/13438eb9-d7b2-03fb-ea48-c17d04b938a7/full/843,/0/default.jpg",
+      "sha256": "870d878eb18953a9b3f0019055bc96f4b3119a9a3be63fc0312a342e1015fd64",
+      "width": 843,
+      "height": 1313,
+      "bytes": 452941,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

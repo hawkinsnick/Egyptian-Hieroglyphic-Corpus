@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:64339",
+  "title": "Coffin and Mummy of Paankhaenamun",
+  "accession_number": "1910.238",
+  "period": null,
+  "date": "Third Intermediate Period, Dynasty 22, reign of Osorkon I (about 924\u2013889 BCE)",
+  "source_url": "https://www.artic.edu/artworks/64339",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/64339?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:19.849862+00:00",
+  "credit_line": "W. Moses Willner Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:64339",
+  "images": [
+    {
+      "path": "images/artic/64339/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/93270aaf-16a5-1604-c6c8-0f3c003eb7a1/full/843,/0/default.jpg",
+      "sha256": "2cd4dc7d3ac197e965aaf2d2960ff362186037fb1ed3af53f84267f5e5de3ba0",
+      "width": 843,
+      "height": 2529,
+      "bytes": 623585,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

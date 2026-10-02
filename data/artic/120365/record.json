@@ -1,0 +1,40 @@
+{
+  "object_id": "artic:120365",
+  "title": "Relief Fragment Depicting Merettetiiyet with Offerings",
+  "accession_number": "1910.223",
+  "period": null,
+  "date": "First Intermediate Period, Dynasty 10, about 2050 BCE",
+  "source_url": "https://www.artic.edu/artworks/120365",
+  "metadata_api": "https://api.artic.edu/api/v1/artworks/120365?fields=id,title,main_reference_number,is_public_domain,image_id,is_on_view,gallery_title,credit_line,date_display,artist_title,dimensions,medium_display",
+  "retrieved_at": "2026-10-02T22:01:33.770095+00:00",
+  "credit_line": "W. Moses Willner Fund",
+  "image_rights": {
+    "license": "CC0-1.0",
+    "museum_is_public_domain": true,
+    "policy_url": "https://www.artic.edu/image-licensing",
+    "policy_detail_url": "https://api.artic.edu/docs/#copyright"
+  },
+  "transcription": null,
+  "transliteration": null,
+  "translation": null,
+  "reading_status": "not yet sourced or verified",
+  "sign_annotations": [],
+  "split_group": "artic:120365",
+  "images": [
+    {
+      "path": "images/artic/120365/image-01.jpg",
+      "source_url": "https://www.artic.edu/iiif/2/f8549781-eb13-52d3-07f0-92671e149c93/full/843,/0/default.jpg",
+      "sha256": "cd35b31b5a2ca1edf335ff76fcbf76b955b5ce82d0c544ff529ed93220372b3b",
+      "width": 843,
+      "height": 1003,
+      "bytes": 252005,
+      "role": "unannotated reference; suitability review pending"
+    }
+  ],
+  "display_status": {
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "checked_at": "2026-10-02",
+    "note": "Recheck before travel; display can change."
+  }
+}

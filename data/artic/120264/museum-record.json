@@ -1,0 +1,43 @@
+{
+  "data": {
+    "id": 120264,
+    "title": "Canopic Jar of Amenhotep",
+    "main_reference_number": "1892.37a-b",
+    "date_display": "New Kingdom, Dynasty 18, reign of Amenhotep II (about 1427\u20131400 BCE)",
+    "dimensions": "a (jar): 31.7 \u00d7 19 \u00d7 19.6 cm (12 1/2 \u00d7 7 1/2 \u00d7 7 3/4 in.); b (lid): 12.7 \u00d7 12.7 \u00d7 13.3 cm (5 \u00d7 5 \u00d7 5 1/4 in.)",
+    "medium_display": "Ceramic and pigment",
+    "credit_line": "Purchased with funds provided by Henry H. Getty and Charles L. Hutchinson",
+    "is_public_domain": true,
+    "is_on_view": true,
+    "gallery_title": "Gallery 50",
+    "artist_title": "Ancient Egyptian",
+    "image_id": "bc5407f4-ed7d-5721-da24-8bde5d0c646c"
+  },
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.16"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  },
+  "requested_fields": [
+    "id",
+    "title",
+    "main_reference_number",
+    "is_public_domain",
+    "image_id",
+    "is_on_view",
+    "gallery_title",
+    "credit_line",
+    "date_display",
+    "artist_title",
+    "dimensions",
+    "medium_display"
+  ],
+  "note": "Selected basic API fields only; description and inscription prose not requested."
+}

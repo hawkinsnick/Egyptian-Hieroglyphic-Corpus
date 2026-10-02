@@ -41,3 +41,25 @@ to exactly the same RGB pixels and dimensions. Explicit reviewed checksum/size
 alternatives are retained in the records;
 no changed pixels were accepted. Any other checksum still stops publication.
 Download receipts record the actual bytes packaged in a release.
+
+## Art Institute expansion — checked 2026-10-02
+- API documentation: https://api.artic.edu/docs/
+- Image licensing: https://www.artic.edu/image-licensing
+- Terms: https://www.artic.edu/terms
+
+Every imported artwork record has is_public_domain=true and its image_id is used
+to construct the API's documented IIIF URL. Stored API response info retains its
+license declaration. Only selected basic metadata fields were requested. The API
+licenses description under CC BY 4.0 separately; description and inscriptions prose
+were not requested or copied. This acquisition uses only the primary image per
+Art Institute object, at its recommended 843px cached width. Requests are sequential
+with one-second delays. The API permits small-scale acquisition on these terms.
+
+The Art Institute's main website policy pages returned HTTP 403 to the retrieval
+tools during this run. The operational acquisition is grounded in its accessible
+official API documentation and per-object public-domain flags, with CC0 evidence
+from API info. Its IIIF manifest provides attribution but does not include an explicit license field. This is not a private permission grant.
+
+Online CC0 asset reuse and visitor photography are separate. We have not obtained
+authorization to distribute future visitor photos or label prose. Preserve those
+privately pending confirmation for the intended use. No museum was contacted.
