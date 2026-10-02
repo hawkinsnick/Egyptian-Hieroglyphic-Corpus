@@ -356,7 +356,15 @@
           "width": 422,
           "height": 486,
           "bytes": 119849,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "0e487d576a7a41ccd3af4cffcece87995d617ef9fc75ef1bb7a59e72f0f198cf",
+              "bytes": 96922,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         }
       ]
     },
@@ -390,7 +398,15 @@
           "width": 1600,
           "height": 2000,
           "bytes": 1819336,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "40c56247ea6660ebc00457e1931b37b3c86335f5dd545bea09e59abc7c9702ab",
+              "bytes": 1724321,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         },
         {
           "path": "images/met/546261/image-02.jpg",
@@ -399,7 +415,15 @@
           "width": 1600,
           "height": 2000,
           "bytes": 1829267,
-          "role": "unannotated reference; suitability review pending"
+          "role": "unannotated reference; suitability review pending",
+          "reviewed_byte_variants": [
+            {
+              "sha256": "52e07ed038d72af344b40950a256544ee53719b801e37e70b7e71c3365c75d4a",
+              "bytes": 1759587,
+              "reviewed_at": "2026-10-02",
+              "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+            }
+          ]
         }
       ]
     },

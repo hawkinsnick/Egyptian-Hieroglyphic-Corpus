@@ -56,7 +56,7 @@ Art Institute object, at its recommended 843px cached width. Requests are sequen
 with one-second delays. The API permits small-scale acquisition on these terms.
 
 The Art Institute's main website policy pages returned HTTP 403 to the retrieval
-tools during this run. The operational acquisition is grounded in its accessible
+tools during this run; indexed results for the official image-licensing and open-access pages confirmed their CC0 wording. The operational acquisition is grounded in its accessible
 official API documentation and per-object public-domain flags, with CC0 evidence
 from API info. Its IIIF manifest provides attribution but does not include an explicit license field. This is not a private permission grant.
 

@@ -28,7 +28,15 @@
       "width": 422,
       "height": 486,
       "bytes": 119849,
-      "role": "unannotated reference; suitability review pending"
+      "role": "unannotated reference; suitability review pending",
+      "reviewed_byte_variants": [
+        {
+          "sha256": "0e487d576a7a41ccd3af4cffcece87995d617ef9fc75ef1bb7a59e72f0f198cf",
+          "bytes": 96922,
+          "reviewed_at": "2026-10-02",
+          "basis": "Exact RGB pixel equality and dimensions checked against acquired original; JPEG metadata/container bytes differ."
+        }
+      ]
     }
   ]
 }
