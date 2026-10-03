@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Egyptian Hieroglyphic Corpus",
+  "state": "MACHINE_WORK_ACTIVE",
+  "completed": [
+    "25-object/32-image open-image acquisition pilot",
+    "museum accession/source/image provenance",
+    "image hashes and dimensions",
+    "record-level public-domain checks",
+    "component-specific licensing architecture",
+    "individual AI authority contract"
+  ],
+  "remaining_machine_work": [
+    "expand lawful public-domain object/image discovery",
+    "build sign-region annotation schema",
+    "establish explicit sign-list concordance layer",
+    "locate reusable authoritative transcriptions/editions per object",
+    "create source-dependence graph for readings",
+    "construct train/validation/test partitions without object/image leakage",
+    "benchmark image retrieval separately from sign recognition and translation"
+  ],
+  "human_only": [
+    "specialist adjudication of damaged/ambiguous signs where authorities disagree",
+    "philological adjudication of disputed readings/translations",
+    "final scholarly review of annotation gold set"
+  ],
+  "release_rule": "Do not call image acquisition a translated corpus. Missing readings remain unknown.",
+  "status": "PRE_EXPERT_MACHINE_FRONTIER_OPEN"
+}
