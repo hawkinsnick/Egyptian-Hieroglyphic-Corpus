@@ -1,20 +1,19 @@
-Licensing is component-specific; this repository does not have one blanket license.
+# License by material
 
-1. Met and Art Institute Open Access images and basic API data, including
-   data/met/**, data/artic/**, source image URLs, downloaded images/met/**,
-   images/artic/** and museum-derived factual fields of data/manifest.json:
-   CC0-1.0, https://creativecommons.org/publicdomain/zero/1.0/legalcode .
-   They may be reused commercially or noncommercially. Project restrictions do not
-   apply to these materials. Museum trademarks are not licensed by CC0.
+This repository uses component-specific licensing; there is no blanket license.
 
-2. Original project software/scripts, where copyright applies: PolyForm Noncommercial 1.0.0 as specified in LICENSE-CODE. Commercial use requires separate permission.
+## Project-original software
+Project-original software is governed by PolyForm Noncommercial 1.0.0. See `LICENSE-CODE`.
 
-3. Original project documentation, annotations, organization and research outputs, where copyright applies: CC BY-NC 4.0 as specified in LICENSE-CONTENT.md. Attribution: hawkinsnick, Egyptian-Hieroglyphic-Corpus, with repository URL.
+## Project-original corpus content
+To the extent the project owns the applicable rights, project-original metadata enhancements, annotations, documentation, organization, and research outputs are governed by CC BY-NC 4.0. See `LICENSE-CONTENT.md`.
 
-This is a noncommercial source-available project, not an OSI open-source project.
+## Museum Open Access / CC0 material
+Met and Art Institute Open Access images and basic API data identified by repository records retain CC0-1.0 or their applicable upstream Open Access terms. They may be reused commercially or noncommercially where those upstream terms permit. Project restrictions do not attach to those components. Museum trademarks are not licensed by CC0.
 
-4. Future third-party readings/translations: governed by their own explicit rights
-   entries. None are included in version 0.2.0.
+## Other third-party material
+Future third-party readings, translations, editions, photographs, datasets, or other source-derived material retain their own explicit terms. Public-domain material remains public domain. Citation or public accessibility does not itself grant redistribution permission.
 
-This independent project is not affiliated with or endorsed by either museum.
-No museum logos or branding are included.
+See `LICENSING.md`, `NOTICE`, source metadata, and rights records for component-specific details.
+
+This independent project is not affiliated with or endorsed by the museums represented in its source records.
