@@ -1,0 +1,24 @@
+name: Validate AI skill
+on:
+  push:
+    branches: [main]
+    paths:
+      - ai-skill/**
+      - research/**
+      - data/manifest.json
+      - LICENSE
+      - LICENSE-CODE
+      - LICENSE-CONTENT.md
+      - LICENSING.md
+      - NOTICE
+      - .github/workflows/ai-skill.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Validate corpus AI contract
+        run: python3 ai-skill/scripts/validate_bundle.py
