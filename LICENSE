@@ -7,14 +7,13 @@ Licensing is component-specific; this repository does not have one blanket licen
    They may be reused commercially or noncommercially. Project restrictions do not
    apply to these materials. Museum trademarks are not licensed by CC0.
 
-2. Original project scripts, documentation and organization, where copyright applies:
-   Copyright 2026 hawkinsnick. Licensed under Creative Commons Attribution-
-   NonCommercial 4.0 International (CC-BY-NC-4.0):
-   https://creativecommons.org/licenses/by-nc/4.0/legalcode .
-   Attribution: hawkinsnick, Egyptian-Hieroglyphic-Corpus, with repository URL.
-   This is a noncommercial source-available project, not an OSI open-source license.
+2. Original project software/scripts, where copyright applies: PolyForm Noncommercial 1.0.0 as specified in LICENSE-CODE. Commercial use requires separate permission.
 
-3. Future third-party readings/translations: governed by their own explicit rights
+3. Original project documentation, annotations, organization and research outputs, where copyright applies: CC BY-NC 4.0 as specified in LICENSE-CONTENT.md. Attribution: hawkinsnick, Egyptian-Hieroglyphic-Corpus, with repository URL.
+
+This is a noncommercial source-available project, not an OSI open-source project.
+
+4. Future third-party readings/translations: governed by their own explicit rights
    entries. None are included in version 0.2.0.
 
 This independent project is not affiliated with or endorsed by either museum.
