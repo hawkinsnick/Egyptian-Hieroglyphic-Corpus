@@ -7,6 +7,12 @@ on:
       - scripts/**
       - docs/**
       - LICENSE
+      - LICENSE-CODE
+      - LICENSE-CONTENT.md
+      - LICENSING.md
+      - NOTICE
+      - ai-skill/**
+      - research/**
       - CREDITS.md
       - .github/workflows/publish.yml
   workflow_dispatch:
@@ -23,6 +29,8 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
       - name: Validate provenance
         run: python3 scripts/validate.py
+      - name: Validate AI research contract
+        run: python3 ai-skill/scripts/validate_bundle.py
       - name: Download and verify original images
         run: python3 scripts/download_images.py
       - name: Build release archive
