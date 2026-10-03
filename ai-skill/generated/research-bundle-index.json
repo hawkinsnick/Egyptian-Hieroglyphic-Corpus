@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "canonical_repository": true,
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "milestone": "OPEN_IMAGE_ACQUISITION_PRE_ANNOTATION",
+  "artifacts": [
+    {
+      "role": "object_image_manifest",
+      "path": "data/manifest.json"
+    },
+    {
+      "role": "licensing",
+      "path": "LICENSING.md"
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE"
+    },
+    {
+      "role": "annotation_policy",
+      "path": "docs/ANNOTATION.md"
+    },
+    {
+      "role": "permissions",
+      "path": "docs/PERMISSIONS.md"
+    },
+    {
+      "role": "pre_expert_gate",
+      "path": "research/pre-expert-maximum.json"
+    }
+  ],
+  "guardrails": [
+    "25 objects/32 images are an acquisition pilot, not an exhaustive Egyptian text corpus.",
+    "No verified readings exist in current canonical manifest.",
+    "CC0 museum assets remain independently reusable under CC0.",
+    "AI image/sign analysis is noncanonical until source checked."
+  ]
+}
