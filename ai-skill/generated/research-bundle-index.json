@@ -1,45 +1,58 @@
 {
-  "schema_version": "0.3.1",
-  "skill_version": "0.3.1",
+  "artifacts": [
+    {
+      "path": "data/manifest.json",
+      "role": "object_image_manifest"
+    },
+    {
+      "path": "LICENSING.md",
+      "role": "licensing"
+    },
+    {
+      "path": "NOTICE",
+      "role": "notice"
+    },
+    {
+      "path": "docs/ANNOTATION.md",
+      "role": "annotation_policy"
+    },
+    {
+      "path": "docs/PERMISSIONS.md",
+      "role": "permissions"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "role": "pre_expert_gate"
+    },
+    {
+      "bytes": 44916,
+      "path": "research/collection-work-ledger.json",
+      "role": "collection_work_ledger",
+      "sha256": "f782f5884ed589270f3a4ad52f4ce03a888c612d4c8c0e6e0475930b61133967"
+    },
+    {
+      "bytes": 1828,
+      "path": "review/collection-packet.json",
+      "role": "collection_review_packet",
+      "sha256": "bedcddb320afc7f6b17ae859fbeea912ab6d4a9e5d2a06719b6ae76dc10369c4"
+    }
+  ],
   "canonical_repository": true,
+  "collection_evidence_fingerprint": "17b5f47b27a31cbe42243b1fa473339eefadd796b7b1c4a7b38ec8a195b8b941",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
-    "preserve_uncertainty": true,
+    "preserve_rights": true,
     "preserve_source_independence": true,
-    "preserve_rights": true
+    "preserve_uncertainty": true
   },
-  "milestone": "OPEN_IMAGE_ACQUISITION_PRE_ANNOTATION",
-  "artifacts": [
-    {
-      "role": "object_image_manifest",
-      "path": "data/manifest.json"
-    },
-    {
-      "role": "licensing",
-      "path": "LICENSING.md"
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE"
-    },
-    {
-      "role": "annotation_policy",
-      "path": "docs/ANNOTATION.md"
-    },
-    {
-      "role": "permissions",
-      "path": "docs/PERMISSIONS.md"
-    },
-    {
-      "role": "pre_expert_gate",
-      "path": "research/pre-expert-maximum.json"
-    }
-  ],
   "guardrails": [
     "25 objects/32 images are an acquisition pilot, not an exhaustive Egyptian text corpus.",
     "No verified readings exist in current canonical manifest.",
     "CC0 museum assets remain independently reusable under CC0.",
     "AI image/sign analysis is noncanonical until source checked."
-  ]
+  ],
+  "milestone": "OPEN_IMAGE_ACQUISITION_PRE_ANNOTATION",
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1"
 }
