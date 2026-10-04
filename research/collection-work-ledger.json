@@ -1,0 +1,1213 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "47fb8486f9aec977a47dbe5cdc2db15a3a977e462b78092f45d93e581fa1f6ec",
+  "evidence_fingerprint": "17b5f47b27a31cbe42243b1fa473339eefadd796b7b1c4a7b38ec8a195b8b941",
+  "input_sha256": {
+    "data/manifest.json": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+    "research/pre-expert-maximum.json": "394c1a717c17c2f8300bd571048509519d8279553f74e5f6ee8bd32be6f576ae"
+  },
+  "native_review_links": [
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 25,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "image_acquisition_object",
+      "view": "image-objects"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/0",
+      "native_id": "met:544320",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:544320",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/0/title",
+        "/objects/0/source_url",
+        "/objects/0/images/0/source_url",
+        "/objects/0/images/1/source_url",
+        "/objects/0/images/2/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "35c88a859386f2c3a4cb043b72a0c4b27bed1cda5276782f2863d4fd69477ca1",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/1",
+      "native_id": "met:545503",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:545503",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/1/title",
+        "/objects/1/source_url",
+        "/objects/1/images/0/source_url",
+        "/objects/1/images/1/source_url",
+        "/objects/1/images/2/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "bd0518a81fe1acc1db47f93508f43fc4b491353d2e997004126607a594e67d9f",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/2",
+      "native_id": "met:544347",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:544347",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/2/title",
+        "/objects/2/source_url",
+        "/objects/2/images/0/source_url",
+        "/objects/2/images/1/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "d33b04027281f695699b41c7d1550bf34d2f9cde1273d625a058f379249f8afc",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/3",
+      "native_id": "met:547695",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:547695",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/3/title",
+        "/objects/3/source_url",
+        "/objects/3/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "d3b58a9d971df3422de03690fadf6eea9d580999e4182e9b7d96ee0958512c7d",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/4",
+      "native_id": "met:554785",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:554785",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/4/title",
+        "/objects/4/source_url",
+        "/objects/4/images/0/source_url",
+        "/objects/4/images/1/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "d762909d39d610cebefd5fa33b113770f4605902dbc6c9c8ac22e98f66d1605e",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/5",
+      "native_id": "met:545752",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:545752",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/5/title",
+        "/objects/5/source_url",
+        "/objects/5/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "e12141e9a146213a8aaa546dd8341aa35372f2b9aa29d1ce721b78b475585ab3",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/6",
+      "native_id": "met:554786",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:554786",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/6/title",
+        "/objects/6/source_url",
+        "/objects/6/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "80c17f83031d58b99a5b98ce187bc89aae64f9269b87a235c84257c2c9324487",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/7",
+      "native_id": "met:556818",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:556818",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/7/title",
+        "/objects/7/source_url",
+        "/objects/7/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "ea376e248bbae845322dc35e13c22f4b69075997818a09d3862218f09a4fee60",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/8",
+      "native_id": "met:546261",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:546261",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/8/title",
+        "/objects/8/source_url",
+        "/objects/8/images/0/source_url",
+        "/objects/8/images/1/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "360a917343412cb81a0da995256327dc6741a46dc0d5cea2f01da76ce73e7f28",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/9",
+      "native_id": "met:545875",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:met:545875",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/9/title",
+        "/objects/9/source_url",
+        "/objects/9/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "e12d0abe8f899804ca5acb9a6290430682e4fa93ce57dce256353fb4d5f5720a",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/10",
+      "native_id": "artic:12985",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:12985",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/10/title",
+        "/objects/10/source_url",
+        "/objects/10/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "9b3ebcf55536733be52d941af9eedf0b16034c9f23f7437a695c10f4865250b9",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/11",
+      "native_id": "artic:127885",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:127885",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/11/title",
+        "/objects/11/source_url",
+        "/objects/11/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "31027fa8d25ed5530e140b3cb39d9b6043ea02c6fc481b05cbe3d013743a1414",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/12",
+      "native_id": "artic:120266",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:120266",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/12/title",
+        "/objects/12/source_url",
+        "/objects/12/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "e85829b39e97ca6304fd2046e2ef5750a8b40f0f4bb0236c1be4c59f48d9432c",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/13",
+      "native_id": "artic:120265",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:120265",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/13/title",
+        "/objects/13/source_url",
+        "/objects/13/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "4877bd0fa90a19e75665ff63744522a05b6c7495e8d51518074581ba1d1dc62b",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/14",
+      "native_id": "artic:120264",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:120264",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/14/title",
+        "/objects/14/source_url",
+        "/objects/14/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "08d4623f3c5ba73909fc190037266f904db28a39ab20b334cf677a98134386e8",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/15",
+      "native_id": "artic:120268",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:120268",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/15/title",
+        "/objects/15/source_url",
+        "/objects/15/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "93de8892eb09c8eafca34a09308bd55d8f0447d8ed3a1f2f46bf6c8b9da6832b",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/16",
+      "native_id": "artic:127894",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:127894",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/16/title",
+        "/objects/16/source_url",
+        "/objects/16/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "735e96100a85c68a5546ee78c0b9fc7ebcce375279de54ef333b313c7ffc14a5",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/17",
+      "native_id": "artic:127859",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:127859",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/17/title",
+        "/objects/17/source_url",
+        "/objects/17/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "ecffd8001a26c56bf9ec21968c29091d5136235dedf1bb8616b32b3056fc6db4",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/18",
+      "native_id": "artic:78161",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:78161",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/18/title",
+        "/objects/18/source_url",
+        "/objects/18/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "069fd97eeee584c13dd1efb29960c9db4a205cf0cb484207a3a9bee077d65fd4",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/19",
+      "native_id": "artic:64339",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:64339",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/19/title",
+        "/objects/19/source_url",
+        "/objects/19/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "cf48da824eacc0d9a7fdc5397a5df07dc1c02c1c46b596a6a543f77ccb5df30f",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/20",
+      "native_id": "artic:13454",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:13454",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/20/title",
+        "/objects/20/source_url",
+        "/objects/20/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "2eea63442ec41c0ee5e5e72e0e713715a498e2c655bab0a1912f82148d39f13f",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/21",
+      "native_id": "artic:120365",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:120365",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/21/title",
+        "/objects/21/source_url",
+        "/objects/21/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "d54ceace237d4491d71cfc505683a057fbe881b1529940898fedc4dadd3caafe",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/22",
+      "native_id": "artic:805",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:805",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/22/title",
+        "/objects/22/source_url",
+        "/objects/22/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "7a61aa2b630d354e2dd59971be6df60ab6e3c141961e487e065129f6375afb30",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/23",
+      "native_id": "artic:487",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:487",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/23/title",
+        "/objects/23/source_url",
+        "/objects/23/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "87a23c77b042965c5fd3a6b7ed0a540a18010362f7942264d48a76c48f363d74",
+      "unit": "image_acquisition_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/objects/24",
+      "native_id": "artic:121737",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "image-objects:artic:121737",
+      "source_file_sha256": "07e17879839183085f7f2caa81826e09e874efb77293c8d32d3281ac017a2b36",
+      "source_lead_pointers": [
+        "/objects/24/title",
+        "/objects/24/source_url",
+        "/objects/24/images/0/source_url"
+      ],
+      "source_path": "data/manifest.json",
+      "source_record_sha256": "e3fabaac315329d5df4e4b4f3bca2f70ddabd09d1d54f16d10e927b6ce010861",
+      "unit": "image_acquisition_object"
+    }
+  ],
+  "repository": "hawkinsnick/Egyptian-Hieroglyphic-Corpus",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/0/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/0/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/0/images/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/0/images/2/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/1/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/1/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/1/images/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/1/images/2/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/2/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/2/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/2/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/2/images/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/3/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/3/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/3/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/4/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/4/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/4/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/4/images/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/5/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/5/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/5/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/6/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/6/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/6/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/7/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/7/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/7/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/8/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/8/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/8/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/8/images/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/9/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/9/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/9/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/10/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/10/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/10/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/11/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/11/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/11/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/12/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/12/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/12/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/13/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/13/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/13/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/14/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/14/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/14/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/15/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/15/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/15/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/16/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/16/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/16/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/17/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/17/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/17/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/18/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/18/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/18/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/19/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/19/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/19/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/20/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/20/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/20/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/21/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/21/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/21/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/22/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/22/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/22/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/23/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/23/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/23/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/24/title",
+      "kind": "title",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/24/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/objects/24/images/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/manifest.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/0",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "expand lawful public-domain object/image discovery"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/1",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "build sign-region annotation schema"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/2",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "establish explicit sign-list concordance layer"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/3",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "locate reusable authoritative transcriptions/editions per object"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/4",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "create source-dependence graph for readings"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/5",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "construct train/validation/test partitions without object/image leakage"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/6",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "benchmark image retrieval separately from sign recognition and translation"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/0",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "specialist adjudication of damaged/ambiguous signs where authorities disagree"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/1",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "philological adjudication of disputed readings/translations"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/2",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "final scholarly review of annotation gold set"
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}

@@ -1,6 +1,4 @@
 {
-  "schema_version": "0.3.1",
-  "corpus": "Egyptian Hieroglyphic Corpus",
   "authority_order": [
     "museum object/API records with explicit rights evidence",
     "primary publication or authoritative scholarly edition for readings",
@@ -9,18 +7,14 @@
     "project-derived normalized metadata",
     "AI-derived analysis"
   ],
+  "corpus": "Egyptian Hieroglyphic Corpus",
   "current_state": {
-    "objects": 25,
     "museum_images": 32,
+    "objects": 25,
     "verified_sign_annotations": 0,
     "verified_transcriptions": 0,
-    "verified_transliterations": 0,
-    "verified_translations": 0
-  },
-  "rights_firewall": {
-    "museum_cc0": "Retains CC0; project NC restrictions do not attach.",
-    "project_original": "PolyForm Noncommercial for software; CC BY-NC 4.0 for project-owned content.",
-    "third_party_scholarship": "Upstream terms control; citation alone is not redistribution permission."
+    "verified_translations": 0,
+    "verified_transliterations": 0
   },
   "prohibited_promotions": [
     "visual recognition -> verified sign identification",
@@ -29,5 +23,23 @@
     "public URL -> redistribution permission",
     "AI OCR result -> canonical transcription"
   ],
+  "required_authorities": [
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "rights_firewall": {
+    "museum_cc0": "Retains CC0; project NC restrictions do not attach.",
+    "project_original": "PolyForm Noncommercial for software; CC BY-NC 4.0 for project-owned content.",
+    "third_party_scholarship": "Upstream terms control; citation alone is not redistribution permission."
+  },
+  "schema_version": "0.3.1",
   "status": "OPEN_IMAGE_ACQUISITION_PRE_ANNOTATION"
 }
